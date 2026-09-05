@@ -1,16 +1,3 @@
-"""
-Task 5: Decision Trees and Random Forests
-Dataset: heart.csv (Heart Disease Classification)
-
-Objective: Learn tree-based models for classification.
-Steps:
-1. Train a Decision Tree Classifier and visualize the tree.
-2. Analyze overfitting and control tree depth.
-3. Train a Random Forest and compare accuracy.
-4. Interpret feature importances.
-5. Evaluate using cross-validation.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib
